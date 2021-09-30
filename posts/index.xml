@@ -6,14 +6,16 @@
     <description>Recent content on WebSec Seminar Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Dec 2018 00:29:41 -0600</lastBuildDate><atom:link href="https://websecseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Sep 2021 00:29:41 -0600</lastBuildDate><atom:link href="https://websecseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Quotes by Carl Jung</title>
-      <link>https://websecseminar.github.io/posts/quotes-by-carl-jung/</link>
-      <pubDate>Wed, 26 Dec 2018 00:29:41 -0600</pubDate>
+      <title>Example Post</title>
+      <link>https://websecseminar.github.io/posts/example_post_team_xyz/</link>
+      <pubDate>Thu, 30 Sep 2021 00:29:41 -0600</pubDate>
       
-      <guid>https://websecseminar.github.io/posts/quotes-by-carl-jung/</guid>
-      <description>Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness. It is far better to take things as they come along with patience and equanimity. &amp;mdash; Carl Jung   The least of things with a meaning is worth more in life than the greatest of things without it. &amp;mdash; Carl Jung   Who looks outside, dreams; who looks inside, awakes.</description>
+      <guid>https://websecseminar.github.io/posts/example_post_team_xyz/</guid>
+      <description>This blog post is just a collection of useful links and syntax examples for you to get started. Since we use Hugo, you&amp;rsquo;ll have to write the blog posts in Markdown.
+Example Blog Posts Here are some example blog posts, in case you need some inspiration.
+ 4 Essential Elements to Writing a Great Blog Post  Reversing Age of Empires 2: Definitive Edition  Croc Full Plaintext Recovery - CVE-2021-31603   Markdown Examples In Markdown you can use all kinds of formatting.</description>
     </item>
     
   </channel>
