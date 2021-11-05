@@ -6,11 +6,164 @@
     <description>Recent content in Tags on WebSec Seminar Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Sep 2021 00:29:41 -0600</lastBuildDate><atom:link href="https://websecseminar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Nov 2021 00:29:41 -0600</lastBuildDate><atom:link href="https://websecseminar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>alexb</title>
+      <link>https://websecseminar.github.io/tags/alexb/</link>
+      <pubDate>Mon, 01 Nov 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/alexb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>forgery</title>
+      <link>https://websecseminar.github.io/tags/forgery/</link>
+      <pubDate>Mon, 01 Nov 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/forgery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>laurins</title>
+      <link>https://websecseminar.github.io/tags/laurins/</link>
+      <pubDate>Mon, 01 Nov 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/laurins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>owasp10</title>
+      <link>https://websecseminar.github.io/tags/owasp10/</link>
+      <pubDate>Mon, 01 Nov 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/owasp10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssrf</title>
+      <link>https://websecseminar.github.io/tags/ssrf/</link>
+      <pubDate>Mon, 01 Nov 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/ssrf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OWASP</title>
+      <link>https://websecseminar.github.io/tags/owasp/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/owasp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OWASP05</title>
+      <link>https://websecseminar.github.io/tags/owasp05/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/owasp05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Misconfiguration</title>
+      <link>https://websecseminar.github.io/tags/security-misconfiguration/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/security-misconfiguration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inejction Prevention</title>
+      <link>https://websecseminar.github.io/tags/inejction-prevention/</link>
+      <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/inejction-prevention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Injection</title>
+      <link>https://websecseminar.github.io/tags/injection/</link>
+      <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/injection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local File Inclusion</title>
+      <link>https://websecseminar.github.io/tags/local-file-inclusion/</link>
+      <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/local-file-inclusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://websecseminar.github.io/tags/sql/</link>
+      <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Injection</title>
+      <link>https://websecseminar.github.io/tags/sql-injection/</link>
+      <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/sql-injection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Injection Prevention</title>
+      <link>https://websecseminar.github.io/tags/sql-injection-prevention/</link>
+      <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/sql-injection-prevention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQLi</title>
+      <link>https://websecseminar.github.io/tags/sqli/</link>
+      <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/sqli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification and Authentification failures </title>
+      <link>https://websecseminar.github.io/tags/identification-and-authentification-failures/</link>
+      <pubDate>Tue, 05 Oct 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/identification-and-authentification-failures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OWASP07</title>
+      <link>https://websecseminar.github.io/tags/owasp07/</link>
+      <pubDate>Tue, 05 Oct 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/owasp07/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>example</title>
       <link>https://websecseminar.github.io/tags/example/</link>
-      <pubDate>Thu, 30 Sep 2021 00:29:41 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 00:29:41 -0600</pubDate>
       
       <guid>https://websecseminar.github.io/tags/example/</guid>
       <description></description>
@@ -19,7 +172,7 @@
     <item>
       <title>howto</title>
       <link>https://websecseminar.github.io/tags/howto/</link>
-      <pubDate>Thu, 30 Sep 2021 00:29:41 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 00:29:41 -0600</pubDate>
       
       <guid>https://websecseminar.github.io/tags/howto/</guid>
       <description></description>
@@ -28,9 +181,54 @@
     <item>
       <title>hugo</title>
       <link>https://websecseminar.github.io/tags/hugo/</link>
-      <pubDate>Thu, 30 Sep 2021 00:29:41 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 00:29:41 -0600</pubDate>
       
       <guid>https://websecseminar.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A06</title>
+      <link>https://websecseminar.github.io/tags/a06/</link>
+      <pubDate>Thu, 30 Sep 2021 00:29:41 -1015</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/a06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Components</title>
+      <link>https://websecseminar.github.io/tags/components/</link>
+      <pubDate>Thu, 30 Sep 2021 00:29:41 -1015</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/components/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outdated</title>
+      <link>https://websecseminar.github.io/tags/outdated/</link>
+      <pubDate>Thu, 30 Sep 2021 00:29:41 -1015</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/outdated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://websecseminar.github.io/tags/security/</link>
+      <pubDate>Thu, 30 Sep 2021 00:29:41 -1015</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vulnerable</title>
+      <link>https://websecseminar.github.io/tags/vulnerable/</link>
+      <pubDate>Thu, 30 Sep 2021 00:29:41 -1015</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/vulnerable/</guid>
       <description></description>
     </item>
     

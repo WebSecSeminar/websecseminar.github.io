@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Local File Inclusion on WebSec Seminar Blog</title>
+    <link>https://websecseminar.github.io/tags/local-file-inclusion/</link>
+    <description>Recent content in Local File Inclusion on WebSec Seminar Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Oct 2021 00:29:41 -0600</lastBuildDate><atom:link href="https://websecseminar.github.io/tags/local-file-inclusion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Injection</title>
+      <link>https://websecseminar.github.io/posts/owasp_3_team_injectiondetection/</link>
+      <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/owasp_3_team_injectiondetection/</guid>
+      <description>Injection is a class of vulnerabilities which have one specific value in common. Every injection type can be broken down to missing data validation.
+All types of injection are caused by unfiltered or insufficiently validated data that triggers unwanted behaviour of the application. Malicious (payload) data gets partly interpreted as commands by the system and can, in the worst case, lead to a fully attacker-controlled system. Popular injection types are SQL Injections, Cross-Site-Scripting (XSS), File Inclusion Attacks (LFI/RFI) and many more.</description>
+    </item>
+    
+  </channel>
+</rss>

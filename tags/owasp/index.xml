@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OWASP on WebSec Seminar Blog</title>
+    <link>https://websecseminar.github.io/tags/owasp/</link>
+    <description>Recent content in OWASP on WebSec Seminar Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://websecseminar.github.io/tags/owasp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OWASP05 - Security Misconfiguration</title>
+      <link>https://websecseminar.github.io/posts/owasp_5_team_sadlittleunicorn/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/owasp_5_team_sadlittleunicorn/</guid>
+      <description>Einführung Den 5. Platz der von OWASP benannten kritischsten Sicherheitsrisikos von Webanwendungen belegt die „Security Misconfiguration&amp;quot;. Die Security Misconfiguration beschreibt die Fehlkonfiguration von Anwendungen, die im Application-Stack einer Web-Anwendung liegen, das kann z.B. eine Datenbank oder der Webserver sein. Vor allem beim nicht deaktiviertem oder neu konfigurierten Default-Account ist diese Schwachstelle sehr einfach ausnutzbar. Dieses Risiko ist über die letzten Jahre präsenter geworden, ein Grund dafür ist der vermehrte Wechsel in stark konfigurierbare Anwendungen.</description>
+    </item>
+    
+    <item>
+      <title>OWASP A06 - Vulnerable and Outdated Components</title>
+      <link>https://websecseminar.github.io/posts/owasp_6_die_drei/</link>
+      <pubDate>Thu, 30 Sep 2021 00:29:41 -1015</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/owasp_6_die_drei/</guid>
+      <description>Einleitung - Welche Fehler machen ein System verwundbar? Fast alle Anwendungen verwenden in irgendeiner Form third-party Komponenten. Dies ist oftmals auch sinnvoll, um Zeit und Arbeit einzusparen. Durch die Benutzung dieser externen Komponenten können aber auch Probleme entstehen. Da nicht immer die neusten Versionen verwendet werden, können Sicherheitsschwachstellen weiterhin existieren, die von Angreifern genutzt werden können. Betrachtet man Statistiken, so wird man feststellen, dass sehr oft Open-Source-Software mit bekannten Schwachstellen genutzt wird.</description>
+    </item>
+    
+  </channel>
+</rss>

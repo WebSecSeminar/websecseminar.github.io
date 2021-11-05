@@ -6,7 +6,17 @@
     <description>Recent content in hugo on WebSec Seminar Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Sep 2021 00:29:41 -0600</lastBuildDate><atom:link href="https://websecseminar.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Oct 2021 00:29:41 -0600</lastBuildDate><atom:link href="https://websecseminar.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OWASP 04 Insecure Design</title>
+      <link>https://websecseminar.github.io/posts/owasp_4_team_diedieihretabellekaputtgemachthaben/</link>
+      <pubDate>Sun, 03 Oct 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/owasp_4_team_diedieihretabellekaputtgemachthaben/</guid>
+      <description>Einführung Planung ist oft das Schlüsselelement zu allem was wir tun. So auch in der Software-Entwicklung. Insecure Design ist eine Sicherheitsschwachstelle, die durch schlechte oder nicht weitsichtige Planung entsteht. Grade in den immer größer werdenden Projekten spielt gute Planung und damit auch Secure Design eine wichtige und nicht zu unterschätzenden Rolle.
+Was ist Insecure Design Unsichers Design oder Insecure Design entsteht meistens, wenn bei der Planung der Software kaum bis gar kein Schwerpunkt auf die Sicherheit gelegt wird.</description>
+    </item>
+    
     <item>
       <title>Example Post</title>
       <link>https://websecseminar.github.io/posts/example_post_team_xyz/</link>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>alexb on WebSec Seminar Blog</title>
+    <link>https://websecseminar.github.io/tags/alexb/</link>
+    <description>Recent content in alexb on WebSec Seminar Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Nov 2021 00:29:41 -0600</lastBuildDate><atom:link href="https://websecseminar.github.io/tags/alexb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OWASP10 – Server-Side Request Forgery</title>
+      <link>https://websecseminar.github.io/posts/owasp_10_team_cooler_name/</link>
+      <pubDate>Mon, 01 Nov 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/owasp_10_team_cooler_name/</guid>
+      <description>Einführung Server-Side Request Forgery, kurz SSRF, ist eine Angriffskategorie, die in der Praxis zwar selten von Angreifern genutzt wird, für die jedoch eine überdurchschnittliche Anzahl an Tests durchgeführt wird. Der Grund hierfür sind die schweren Folgen, welche durch das Gelingen eines solchen Angriffs ausgelöst werden können. Im Folgenden beschäftigt sich dieser Blogpost mit verschiedenen Aspekten dieser Kategorie von Angriffen.
+Entwicklung und Risiken Server-Side Request Forgery (SSRF) spielte früher nur eine untergeordnete Rolle, zwar war bereits der Zugriff auf interne Admin Panels und Netzwerkscans möglich, allerdings liefen viele wichtige Abläufe unabhängig ab.</description>
+    </item>
+    
+  </channel>
+</rss>

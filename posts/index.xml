@@ -6,7 +6,66 @@
     <description>Recent content on WebSec Seminar Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Sep 2021 00:29:41 -0600</lastBuildDate><atom:link href="https://websecseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Nov 2021 00:29:41 -0600</lastBuildDate><atom:link href="https://websecseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OWASP10 – Server-Side Request Forgery</title>
+      <link>https://websecseminar.github.io/posts/owasp_10_team_cooler_name/</link>
+      <pubDate>Mon, 01 Nov 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/owasp_10_team_cooler_name/</guid>
+      <description>Einführung Server-Side Request Forgery, kurz SSRF, ist eine Angriffskategorie, die in der Praxis zwar selten von Angreifern genutzt wird, für die jedoch eine überdurchschnittliche Anzahl an Tests durchgeführt wird. Der Grund hierfür sind die schweren Folgen, welche durch das Gelingen eines solchen Angriffs ausgelöst werden können. Im Folgenden beschäftigt sich dieser Blogpost mit verschiedenen Aspekten dieser Kategorie von Angriffen.
+Entwicklung und Risiken Server-Side Request Forgery (SSRF) spielte früher nur eine untergeordnete Rolle, zwar war bereits der Zugriff auf interne Admin Panels und Netzwerkscans möglich, allerdings liefen viele wichtige Abläufe unabhängig ab.</description>
+    </item>
+    
+    <item>
+      <title>OWASP05 - Security Misconfiguration</title>
+      <link>https://websecseminar.github.io/posts/owasp_5_team_sadlittleunicorn/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/owasp_5_team_sadlittleunicorn/</guid>
+      <description>Einführung Den 5. Platz der von OWASP benannten kritischsten Sicherheitsrisikos von Webanwendungen belegt die „Security Misconfiguration&amp;quot;. Die Security Misconfiguration beschreibt die Fehlkonfiguration von Anwendungen, die im Application-Stack einer Web-Anwendung liegen, das kann z.B. eine Datenbank oder der Webserver sein. Vor allem beim nicht deaktiviertem oder neu konfigurierten Default-Account ist diese Schwachstelle sehr einfach ausnutzbar. Dieses Risiko ist über die letzten Jahre präsenter geworden, ein Grund dafür ist der vermehrte Wechsel in stark konfigurierbare Anwendungen.</description>
+    </item>
+    
+    <item>
+      <title>Injection</title>
+      <link>https://websecseminar.github.io/posts/owasp_3_team_injectiondetection/</link>
+      <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/owasp_3_team_injectiondetection/</guid>
+      <description>Injection is a class of vulnerabilities which have one specific value in common. Every injection type can be broken down to missing data validation.
+All types of injection are caused by unfiltered or insufficiently validated data that triggers unwanted behaviour of the application. Malicious (payload) data gets partly interpreted as commands by the system and can, in the worst case, lead to a fully attacker-controlled system. Popular injection types are SQL Injections, Cross-Site-Scripting (XSS), File Inclusion Attacks (LFI/RFI) and many more.</description>
+    </item>
+    
+    <item>
+      <title>OWASP07</title>
+      <link>https://websecseminar.github.io/posts/owasp_7_team_hackermen/</link>
+      <pubDate>Tue, 05 Oct 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/owasp_7_team_hackermen/</guid>
+      <description>This blog post is just a collection of useful links and syntax examples for you to get started. Since we use Hugo, you&amp;rsquo;ll have to write the blog posts in Markdown.
+Example Blog Posts 123 Here are some example blog posts, in case you need some inspiration.
+ 4 Essential Elements to Writing a Great Blog Post  Reversing Age of Empires 2: Definitive Edition  Croc Full Plaintext Recovery - CVE-2021-31603   Markdown Examples In Markdown you can use all kinds of formatting.</description>
+    </item>
+    
+    <item>
+      <title>OWASP 04 Insecure Design</title>
+      <link>https://websecseminar.github.io/posts/owasp_4_team_diedieihretabellekaputtgemachthaben/</link>
+      <pubDate>Sun, 03 Oct 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/owasp_4_team_diedieihretabellekaputtgemachthaben/</guid>
+      <description>Einführung Planung ist oft das Schlüsselelement zu allem was wir tun. So auch in der Software-Entwicklung. Insecure Design ist eine Sicherheitsschwachstelle, die durch schlechte oder nicht weitsichtige Planung entsteht. Grade in den immer größer werdenden Projekten spielt gute Planung und damit auch Secure Design eine wichtige und nicht zu unterschätzenden Rolle.
+Was ist Insecure Design Unsichers Design oder Insecure Design entsteht meistens, wenn bei der Planung der Software kaum bis gar kein Schwerpunkt auf die Sicherheit gelegt wird.</description>
+    </item>
+    
+    <item>
+      <title>OWASP A06 - Vulnerable and Outdated Components</title>
+      <link>https://websecseminar.github.io/posts/owasp_6_die_drei/</link>
+      <pubDate>Thu, 30 Sep 2021 00:29:41 -1015</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/owasp_6_die_drei/</guid>
+      <description>Einleitung - Welche Fehler machen ein System verwundbar? Fast alle Anwendungen verwenden in irgendeiner Form third-party Komponenten. Dies ist oftmals auch sinnvoll, um Zeit und Arbeit einzusparen. Durch die Benutzung dieser externen Komponenten können aber auch Probleme entstehen. Da nicht immer die neusten Versionen verwendet werden, können Sicherheitsschwachstellen weiterhin existieren, die von Angreifern genutzt werden können. Betrachtet man Statistiken, so wird man feststellen, dass sehr oft Open-Source-Software mit bekannten Schwachstellen genutzt wird.</description>
+    </item>
+    
     <item>
       <title>Example Post</title>
       <link>https://websecseminar.github.io/posts/example_post_team_xyz/</link>
@@ -16,6 +75,15 @@
       <description>This blog post is just a collection of useful links and syntax examples for you to get started. Since we use Hugo, you&amp;rsquo;ll have to write the blog posts in Markdown.
 Useful Links Here are some example blog posts, in case you need some inspiration.
  4 Essential Elements to Writing a Great Blog Post  Reversing Age of Empires 2: Definitive Edition  Croc Full Plaintext Recovery - CVE-2021-31603   Also the OffSec Videos could be useful.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://websecseminar.github.io/posts/owasp07_i_fehler_bei_der_identifizierung_und_authentifizierung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/owasp07_i_fehler_bei_der_identifizierung_und_authentifizierung/</guid>
+      <description>OWASP07 I Fehler bei der Identifizierung und Authentifizierung  Einführung: Anwendungsfunktionen im Zusammenhang mit der Authentifizierung und dem Session-Management sind häufig falsch implementiert, so dass Angreifer Passwörter, Schlüssel oder Session-Tokens kompromittieren oder andere Fehler in der Implementierung ausnutzen können, um vorübergehend oder dauerhaft die Identität von Benutzern zu übernehmen. Unter Ausnutzung dieser Schwachstelle kann ein Angreifer Benutzersitzungen übernehmen und auf Informationen zugreifen oder diese ändern, für die er keine Berechtigung hat.</description>
     </item>
     
   </channel>

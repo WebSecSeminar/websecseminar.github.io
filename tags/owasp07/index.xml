@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OWASP07 on WebSec Seminar Blog</title>
+    <link>https://websecseminar.github.io/tags/owasp07/</link>
+    <description>Recent content in OWASP07 on WebSec Seminar Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Oct 2021 00:29:41 -0600</lastBuildDate><atom:link href="https://websecseminar.github.io/tags/owasp07/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OWASP07</title>
+      <link>https://websecseminar.github.io/posts/owasp_7_team_hackermen/</link>
+      <pubDate>Tue, 05 Oct 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/owasp_7_team_hackermen/</guid>
+      <description>This blog post is just a collection of useful links and syntax examples for you to get started. Since we use Hugo, you&amp;rsquo;ll have to write the blog posts in Markdown.
+Example Blog Posts 123 Here are some example blog posts, in case you need some inspiration.
+ 4 Essential Elements to Writing a Great Blog Post  Reversing Age of Empires 2: Definitive Edition  Croc Full Plaintext Recovery - CVE-2021-31603   Markdown Examples In Markdown you can use all kinds of formatting.</description>
+    </item>
+    
+  </channel>
+</rss>
