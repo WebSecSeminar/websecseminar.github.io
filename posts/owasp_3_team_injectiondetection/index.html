@@ -282,11 +282,11 @@ http://127.0.0.1:1337/view?file=howto.pdf</p>
 <p>If the filename does not get validated, it is possible to not only use relative, but also absolute filenames in the URL. In this way, an attacker could access any file the user account of the server application has access to.<br>
 Exfiltrating the database file (including highly sensitive user data) can be easily done by visiting the modified URL in this scenario:<br>
 http://127.0.0.1:1337/view?file=../database.db</p>
-<p><img src="/static/images/team_InjectionDetection/004_lfi.png" alt="Local File Inclusion"></p>
+<p><img src="/images/team_InjectionDetection/004_lfi.png" alt="Local File Inclusion"></p>
 <p><em>In combination with insufficient rights management on the server, it can be possible to get access to the system files.</em></p>
 <h3 id="sql-injection">SQL Injection</h3>
 <p>In this case, the frontend directly passes untrusted userdata to the backend system. All data is passed as a parameter to the SQL-statement. The user data might contain control characters to escape from payload context to command context.</p>
-<p><img src="/static/images/team_InjectionDetection/001_login.png" alt="Login page"></p>
+<p><img src="/images/team_InjectionDetection/001_login.png" alt="Login page"></p>
 <p>As a test scenario, a web application serves a login page using the Flask framework in python.<br>
 As a user tries to login, the username and the password value are getting transmitted to the framework over HTTP. The web application directly inserts the user data into the SQL statement:</p>
 <pre><code class="language-python">cur.execute(&quot;SELECT username FROM users WHERE username = \&quot;&quot; + username + &quot;\&quot; AND password = \&quot;&quot; + password + &quot;\&quot;&quot;)
@@ -294,7 +294,7 @@ As a user tries to login, the username and the password value are getting transm
 <p>Let&rsquo;s presume that the user enters invalid login data. This leads to the following SQL statement being executed:</p>
 <pre><code class="language-sql">SELECT username FROM users WHERE username = &quot;Bob&quot; AND password = &quot;123&quot;
 </code></pre>
-<p><img src="/static/images/team_InjectionDetection/002_bad_pw.png" alt="Bad credentials"></p>
+<p><img src="/images/team_InjectionDetection/002_bad_pw.png" alt="Bad credentials"></p>
 <p><em>If there is no user with the name &ldquo;Bob&rdquo; and password &ldquo;123&rdquo;, the statement will not return any results and the application will deny access.</em></p>
 <hr>
 <p>Maybe Bob doesn&rsquo;t remember his password, so he tries to login without any.
@@ -306,7 +306,7 @@ Password: <code>&quot; OR 1=1 OR &quot;abc&quot;=&quot;</code></p>
 <pre><code class="language-sql">SELECT username FROM users WHERE username = &quot;Bob&quot; AND password = &quot;&quot; OR 1=1 OR &quot;abc&quot;=&quot;&quot;
 </code></pre>
 <p><em>The database will return the entry of the user Bob, even if the password is not correct. Due to the OR-statement 1=1, the premise is logically correct in every case.</em></p>
-<p><img src="/static/images/team_InjectionDetection/003_sql_success.png" alt="SQL injection success"></p>
+<p><img src="/images/team_InjectionDetection/003_sql_success.png" alt="SQL injection success"></p>
 <p>Today, many existing frameworks and libraries natively don&rsquo;t allow using unescaped data to build a query for a system. Nevertheless, SQL injections are still present and one of the most dangerous vulnerabilities.</p>
 <h1 id="what-can-you-do-to-prevent-injection-">What can you do to prevent Injection ?</h1>
 <p>According to the OWASP foundation, it is pretty easy to prevent SQL Injection from happening.
