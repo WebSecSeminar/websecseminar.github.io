@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Oct 2021 00:29:41 -0600</lastBuildDate><atom:link href="https://websecseminar.github.io/tags/sql-injection/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Injection</title>
+      <title>OWASP03 - Injection</title>
       <link>https://websecseminar.github.io/posts/owasp_3_team_injectiondetection/</link>
       <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
       
