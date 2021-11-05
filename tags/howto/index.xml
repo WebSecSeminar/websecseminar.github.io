@@ -17,16 +17,5 @@
 Was ist Insecure Design Unsichers Design oder Insecure Design entsteht meistens, wenn bei der Planung der Software kaum bis gar kein Schwerpunkt auf die Sicherheit gelegt wird.</description>
     </item>
     
-    <item>
-      <title>Example Post</title>
-      <link>https://websecseminar.github.io/posts/example_post_team_xyz/</link>
-      <pubDate>Thu, 30 Sep 2021 00:29:41 -0600</pubDate>
-      
-      <guid>https://websecseminar.github.io/posts/example_post_team_xyz/</guid>
-      <description>This blog post is just a collection of useful links and syntax examples for you to get started. Since we use Hugo, you&amp;rsquo;ll have to write the blog posts in Markdown.
-Useful Links Here are some example blog posts, in case you need some inspiration.
- 4 Essential Elements to Writing a Great Blog Post  Reversing Age of Empires 2: Definitive Edition  Croc Full Plaintext Recovery - CVE-2021-31603   Also the OffSec Videos could be useful.</description>
-    </item>
-    
   </channel>
 </rss>
