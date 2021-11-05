@@ -259,7 +259,7 @@ Im schlimmsten Fall ist es sogar möglich, Remotezugriff auf den Systemen zu erh
 <h2 id="wie-ein-angriff-funktioniert">Wie ein Angriff funktioniert</h2>
 <p>Um Zugriff auf sensible Informationen zu erlangen, müssen Sicherheitsmechanismen wie zum Beispiel eine Firewall, die normalerweise eine Anfrage blockieren würde, überwunden werden. Hierfür wird eine vertrauenswürdige Anwendung, wie zum Beispiel ein Web-Server ausgenutzt, indem er eine vom Angreifer definierte Anfrage an gesicherte Systeme sendet, für die nicht erkennbar ist, dass die Anfrage von außerhalb kommt. Ermöglicht wird dies durch unzureichende Überprüfung der angefragten Adressen durch den Server.
 <br>
-<img src="/static/images/team_ssrf/angriff.png" alt="Grafische Darstellung eines Angriffs">
+<img src="/images/team_ssrf/angriff.png" alt="Grafische Darstellung eines Angriffs">
 <br>
 Der sich im internen Netzwerk befindliche Server verarbeitet die Anfrage und sendet eine Antwort an den Web-Server zurück. Der Web-Server stellt dem Angreifer die Antwort auf seine Anfrage zur Verfügung und gibt somit vertrauliche Informationen weiter. Diese Bereitstellung erfolgt ohne vorherige Überprüfung.</p>
 <h3 id="fallbeispiel">Fallbeispiel</h3>
@@ -271,7 +271,7 @@ Die Verfügbarkeitsanfrage zu einem spezifischen Produkt stellt sich im Browser 
 Diese Anfrage lässt sich mithilfe der Netzwerkanalyse des Internet-Browsers anzeigen und modifizieren. 
 <br>
 <br>
-![Darstellung in der Netzwerkanalyse](/static/images/team_ssrf/netzwerkanalyse.png)
+![Darstellung in der Netzwerkanalyse](/images/team_ssrf/netzwerkanalyse.png)
 <br>
 Hierdurch ist es nicht nur möglich, den Produktstatus beliebiger Produkte anzeigen zu lassen, sondern auch, den Web-Server dazu zu bringen auf andere Ressourcen des Netzwerks zuzugreifen. Dazu muss die Anfrage vom Angreifer modifiziert und an den Web-Server gesendet werden. Diese modifizierte Anfrage könnte folgendermaßen aussehen:
 <pre><code class="language-html">https://domain.com/products?url=file:///etc/passwd
