@@ -6,7 +6,17 @@
     <description>Recent content in SQL on WebSec Seminar Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Oct 2021 00:29:41 -0600</lastBuildDate><atom:link href="https://websecseminar.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Dec 2021 00:29:41 -0600</lastBuildDate><atom:link href="https://websecseminar.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE 2019-9083 - SQL Injection</title>
+      <link>https://websecseminar.github.io/posts/owasp_3_cve_2019-9083/</link>
+      <pubDate>Fri, 17 Dec 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/owasp_3_cve_2019-9083/</guid>
+      <description>Description Injections, and furthermore SQL injections, are still one of the most popular and most attractive vulnerability classes for hackers.
+CVE 2019-9083 is an example of CWE-89 (Improper Neutralization of Special Elements used in an SQL Command) and affects SQLiteManager (version 1.2.0 and 1.2.4). SQLiteManager is a piece of open-source software, which can be used to manage SQLite databases right out of the webbrowser. As it is completely written on PHP, it runs using an apache server and is powered by an underlying MySQL instance.</description>
+    </item>
+    
     <item>
       <title>OWASP03 - Injection</title>
       <link>https://websecseminar.github.io/posts/owasp_3_team_injectiondetection/</link>
@@ -15,16 +25,6 @@
       <guid>https://websecseminar.github.io/posts/owasp_3_team_injectiondetection/</guid>
       <description>Injection is a class of vulnerabilities which have one specific value in common. Every injection type can be broken down to missing data validation.
 All types of injection are caused by unfiltered or insufficiently validated data that triggers unwanted behaviour of the application. Malicious (payload) data gets partly interpreted as commands by the system and can, in the worst case, lead to a fully attacker-controlled system. Popular injection types are SQL Injections, Cross-Site-Scripting (XSS), File Inclusion Attacks (LFI/RFI) and many more.</description>
-    </item>
-    
-    <item>
-      <title>SQL injection - CVE 2019-9083</title>
-      <link>https://websecseminar.github.io/posts/owasp_3_cve_2019-9083/</link>
-      <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
-      
-      <guid>https://websecseminar.github.io/posts/owasp_3_cve_2019-9083/</guid>
-      <description>Description Injections, and furthermore SQL injections, are still one of the most popular and most attractive vulnerability classes for hackers.
-CVE 2019-9083 is an example of CWE-89 (Improper Neutralization of Special Elements used in an SQL Command) and affects SQLiteManager (version 1.2.0 and 1.2.4). SQLiteManager is a piece of open-source software, which can be used to manage SQLite databases right out of the webbrowser. As it is completely written on PHP, it runs using an apache server and is powered by an underlying MySQL instance.</description>
     </item>
     
   </channel>

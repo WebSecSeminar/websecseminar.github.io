@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Sep 2021 10:22:01 +0200</lastBuildDate><atom:link href="https://websecseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>CVE 2019-9083 - SQL Injection</title>
+      <link>https://websecseminar.github.io/posts/owasp_3_cve_2019-9083/</link>
+      <pubDate>Fri, 17 Dec 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/owasp_3_cve_2019-9083/</guid>
+      <description>Description Injections, and furthermore SQL injections, are still one of the most popular and most attractive vulnerability classes for hackers.
+CVE 2019-9083 is an example of CWE-89 (Improper Neutralization of Special Elements used in an SQL Command) and affects SQLiteManager (version 1.2.0 and 1.2.4). SQLiteManager is a piece of open-source software, which can be used to manage SQLite databases right out of the webbrowser. As it is completely written on PHP, it runs using an apache server and is powered by an underlying MySQL instance.</description>
+    </item>
+    
+    <item>
       <title>CVE-2015-1819</title>
       <link>https://websecseminar.github.io/posts/team_sadlittleunicorn_cve-2015-1819/</link>
       <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
@@ -79,16 +89,6 @@ All types of injection are caused by unfiltered or insufficiently validated data
     </item>
     
     <item>
-      <title>SQL injection - CVE 2019-9083</title>
-      <link>https://websecseminar.github.io/posts/owasp_3_cve_2019-9083/</link>
-      <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
-      
-      <guid>https://websecseminar.github.io/posts/owasp_3_cve_2019-9083/</guid>
-      <description>Description Injections, and furthermore SQL injections, are still one of the most popular and most attractive vulnerability classes for hackers.
-CVE 2019-9083 is an example of CWE-89 (Improper Neutralization of Special Elements used in an SQL Command) and affects SQLiteManager (version 1.2.0 and 1.2.4). SQLiteManager is a piece of open-source software, which can be used to manage SQLite databases right out of the webbrowser. As it is completely written on PHP, it runs using an apache server and is powered by an underlying MySQL instance.</description>
-    </item>
-    
-    <item>
       <title>OWASP07 - Authentication</title>
       <link>https://websecseminar.github.io/posts/owasp07_i_fehler_bei_der_identifizierung_und_authentifizierung/</link>
       <pubDate>Tue, 05 Oct 2021 00:29:41 -0600</pubDate>
@@ -108,21 +108,21 @@ Was ist Insecure Design Unsichers Design oder Insecure Design entsteht meistens,
     </item>
     
     <item>
-      <title>OWASP A06 - CVEs</title>
-      <link>https://websecseminar.github.io/posts/owasp_6_cve/</link>
-      <pubDate>Thu, 30 Sep 2021 00:29:41 -1015</pubDate>
-      
-      <guid>https://websecseminar.github.io/posts/owasp_6_cve/</guid>
-      <description>Einleitung - Jede Sicherheitslücke gehört zu OWASP A06! Die allgemein gehaltene Formulierung der OWASP-Kategorie A06 aus 2021 hat zur Folge, dass viele Sicherheitslücken, zu ihr zählen. OWASP A06 beschreibt Sicherheitslücken, die in Abhängigkeiten/Dependencies von Softwareprodukten enthalten sind. Es gibt sowohl viele Softwareprodukte als auch auf Entwicklungsebene viele Abhängigkeiten, bei denen Updates ausgelassen werden. Also ist die genaue Art der Sicherheitslücke, wie sie ein System verwundbar macht und welchen Einfluss sie auf das System hat, nicht festgelegt.</description>
-    </item>
-    
-    <item>
       <title>OWASP06 - Vulnerable and Outdated Components</title>
       <link>https://websecseminar.github.io/posts/owasp_6_die_drei/</link>
       <pubDate>Thu, 30 Sep 2021 00:29:41 -1015</pubDate>
       
       <guid>https://websecseminar.github.io/posts/owasp_6_die_drei/</guid>
       <description>Einleitung - Welche Fehler machen ein System verwundbar? Fast alle Anwendungen verwenden in irgendeiner Form third-party Komponenten. Dies ist oftmals auch sinnvoll, um Zeit und Arbeit einzusparen. Durch die Benutzung dieser externen Komponenten können aber auch Probleme entstehen. Da nicht immer die neusten Versionen verwendet werden, können Sicherheitsschwachstellen weiterhin existieren, die von Angreifern genutzt werden können. Betrachtet man Statistiken, so wird man feststellen, dass sehr oft Open-Source-Software mit bekannten Schwachstellen genutzt wird.</description>
+    </item>
+    
+    <item>
+      <title>CVE-2021-44228 - Log4Shell</title>
+      <link>https://websecseminar.github.io/posts/cve-2021-44228/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/cve-2021-44228/</guid>
+      <description>Einleitung - Jede Sicherheitslücke gehört zu OWASP A06! Die allgemein gehaltene Formulierung der OWASP-Kategorie A06 aus 2021 hat zur Folge, dass viele Sicherheitslücken, zu ihr zählen. OWASP A06 beschreibt Sicherheitslücken, die in Abhängigkeiten/Dependencies von Softwareprodukten enthalten sind. Es gibt sowohl viele Softwareprodukte als auch auf Entwicklungsebene viele Abhängigkeiten, bei denen Updates ausgelassen werden. Also ist die genaue Art der Sicherheitslücke, wie sie ein System verwundbar macht und welchen Einfluss sie auf das System hat, nicht festgelegt.</description>
     </item>
     
   </channel>

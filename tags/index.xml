@@ -6,7 +6,79 @@
     <description>Recent content in Tags on WebSec Seminar Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://websecseminar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Dec 2021 00:29:41 -0600</lastBuildDate><atom:link href="https://websecseminar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE 2019-9083</title>
+      <link>https://websecseminar.github.io/tags/cve-2019-9083/</link>
+      <pubDate>Fri, 17 Dec 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/cve-2019-9083/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CWE-89</title>
+      <link>https://websecseminar.github.io/tags/cwe-89/</link>
+      <pubDate>Fri, 17 Dec 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/cwe-89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Injection</title>
+      <link>https://websecseminar.github.io/tags/injection/</link>
+      <pubDate>Fri, 17 Dec 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/injection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://websecseminar.github.io/tags/sql/</link>
+      <pubDate>Fri, 17 Dec 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Injection</title>
+      <link>https://websecseminar.github.io/tags/sql-injection/</link>
+      <pubDate>Fri, 17 Dec 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/sql-injection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Injection Prevention</title>
+      <link>https://websecseminar.github.io/tags/sql-injection-prevention/</link>
+      <pubDate>Fri, 17 Dec 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/sql-injection-prevention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQLi</title>
+      <link>https://websecseminar.github.io/tags/sqli/</link>
+      <pubDate>Fri, 17 Dec 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/sqli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQLiteManager</title>
+      <link>https://websecseminar.github.io/tags/sqlitemanager/</link>
+      <pubDate>Fri, 17 Dec 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/sqlitemanager/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>CVE-2017-8422</title>
       <link>https://websecseminar.github.io/tags/cve-2017-8422/</link>
@@ -161,24 +233,6 @@
     </item>
     
     <item>
-      <title>CVE 2019-9083</title>
-      <link>https://websecseminar.github.io/tags/cve-2019-9083/</link>
-      <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
-      
-      <guid>https://websecseminar.github.io/tags/cve-2019-9083/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CWE-89</title>
-      <link>https://websecseminar.github.io/tags/cwe-89/</link>
-      <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
-      
-      <guid>https://websecseminar.github.io/tags/cwe-89/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Inejction Prevention</title>
       <link>https://websecseminar.github.io/tags/inejction-prevention/</link>
       <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
@@ -188,65 +242,11 @@
     </item>
     
     <item>
-      <title>Injection</title>
-      <link>https://websecseminar.github.io/tags/injection/</link>
-      <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
-      
-      <guid>https://websecseminar.github.io/tags/injection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Local File Inclusion</title>
       <link>https://websecseminar.github.io/tags/local-file-inclusion/</link>
       <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
       
       <guid>https://websecseminar.github.io/tags/local-file-inclusion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQL</title>
-      <link>https://websecseminar.github.io/tags/sql/</link>
-      <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
-      
-      <guid>https://websecseminar.github.io/tags/sql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQL Injection</title>
-      <link>https://websecseminar.github.io/tags/sql-injection/</link>
-      <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
-      
-      <guid>https://websecseminar.github.io/tags/sql-injection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQL Injection Prevention</title>
-      <link>https://websecseminar.github.io/tags/sql-injection-prevention/</link>
-      <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
-      
-      <guid>https://websecseminar.github.io/tags/sql-injection-prevention/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQLi</title>
-      <link>https://websecseminar.github.io/tags/sqli/</link>
-      <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
-      
-      <guid>https://websecseminar.github.io/tags/sqli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQLiteManager</title>
-      <link>https://websecseminar.github.io/tags/sqlitemanager/</link>
-      <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
-      
-      <guid>https://websecseminar.github.io/tags/sqlitemanager/</guid>
       <description></description>
     </item>
     
