@@ -6,13 +6,121 @@
     <description>Recent content in Tags on WebSec Seminar Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Nov 2021 00:29:41 -0600</lastBuildDate><atom:link href="https://websecseminar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://websecseminar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE-2017-8422</title>
+      <link>https://websecseminar.github.io/tags/cve-2017-8422/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/cve-2017-8422/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CWE-776</title>
+      <link>https://websecseminar.github.io/tags/cwe-776/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/cwe-776/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hackermen</title>
+      <link>https://websecseminar.github.io/tags/hackermen/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/hackermen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OWASP05</title>
+      <link>https://websecseminar.github.io/tags/owasp05/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/owasp05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OWASP07</title>
+      <link>https://websecseminar.github.io/tags/owasp07/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/owasp07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XEE</title>
+      <link>https://websecseminar.github.io/tags/xee/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/xee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authentification</title>
+      <link>https://websecseminar.github.io/tags/authentification/</link>
+      <pubDate>Sun, 14 Nov 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/authentification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cve</title>
+      <link>https://websecseminar.github.io/tags/cve/</link>
+      <pubDate>Sun, 14 Nov 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/cve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Firefox</title>
+      <link>https://websecseminar.github.io/tags/firefox/</link>
+      <pubDate>Sun, 14 Nov 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/firefox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schwachstellen</title>
+      <link>https://websecseminar.github.io/tags/schwachstellen/</link>
+      <pubDate>Sun, 14 Nov 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/schwachstellen/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>alexb</title>
       <link>https://websecseminar.github.io/tags/alexb/</link>
-      <pubDate>Mon, 01 Nov 2021 00:29:41 -0600</pubDate>
+      <pubDate>Sat, 13 Nov 2021 00:29:41 -0600</pubDate>
       
       <guid>https://websecseminar.github.io/tags/alexb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>laurins</title>
+      <link>https://websecseminar.github.io/tags/laurins/</link>
+      <pubDate>Sat, 13 Nov 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/laurins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssrf</title>
+      <link>https://websecseminar.github.io/tags/ssrf/</link>
+      <pubDate>Sat, 13 Nov 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/ssrf/</guid>
       <description></description>
     </item>
     
@@ -26,29 +134,11 @@
     </item>
     
     <item>
-      <title>laurins</title>
-      <link>https://websecseminar.github.io/tags/laurins/</link>
-      <pubDate>Mon, 01 Nov 2021 00:29:41 -0600</pubDate>
-      
-      <guid>https://websecseminar.github.io/tags/laurins/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>owasp10</title>
       <link>https://websecseminar.github.io/tags/owasp10/</link>
       <pubDate>Mon, 01 Nov 2021 00:29:41 -0600</pubDate>
       
       <guid>https://websecseminar.github.io/tags/owasp10/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ssrf</title>
-      <link>https://websecseminar.github.io/tags/ssrf/</link>
-      <pubDate>Mon, 01 Nov 2021 00:29:41 -0600</pubDate>
-      
-      <guid>https://websecseminar.github.io/tags/ssrf/</guid>
       <description></description>
     </item>
     
@@ -62,20 +152,29 @@
     </item>
     
     <item>
-      <title>OWASP05</title>
-      <link>https://websecseminar.github.io/tags/owasp05/</link>
-      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://websecseminar.github.io/tags/owasp05/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Security Misconfiguration</title>
       <link>https://websecseminar.github.io/tags/security-misconfiguration/</link>
       <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://websecseminar.github.io/tags/security-misconfiguration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CVE 2019-9083</title>
+      <link>https://websecseminar.github.io/tags/cve-2019-9083/</link>
+      <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/cve-2019-9083/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CWE-89</title>
+      <link>https://websecseminar.github.io/tags/cwe-89/</link>
+      <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/cwe-89/</guid>
       <description></description>
     </item>
     
@@ -143,20 +242,20 @@
     </item>
     
     <item>
+      <title>SQLiteManager</title>
+      <link>https://websecseminar.github.io/tags/sqlitemanager/</link>
+      <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/tags/sqlitemanager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Identification and Authentification failures </title>
       <link>https://websecseminar.github.io/tags/identification-and-authentification-failures/</link>
       <pubDate>Tue, 05 Oct 2021 00:29:41 -0600</pubDate>
       
       <guid>https://websecseminar.github.io/tags/identification-and-authentification-failures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OWASP07</title>
-      <link>https://websecseminar.github.io/tags/owasp07/</link>
-      <pubDate>Tue, 05 Oct 2021 00:29:41 -0600</pubDate>
-      
-      <guid>https://websecseminar.github.io/tags/owasp07/</guid>
       <description></description>
     </item>
     

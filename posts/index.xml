@@ -6,7 +6,49 @@
     <description>Recent content on WebSec Seminar Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Nov 2021 00:29:41 -0600</lastBuildDate><atom:link href="https://websecseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://websecseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE-2015-1819</title>
+      <link>https://websecseminar.github.io/posts/team_sadlittleunicorn_cve-2015-1819/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/team_sadlittleunicorn_cve-2015-1819/</guid>
+      <description>Einführung CVE-2015-1819 beschreibt eine Sicherheitslücke, die in vielen XML-Parsern vorhanden war und durch die fehlende Absicherung gegen rekursiv definierte XML-Dokumente definiert wurde. Diese Lücke ermöglichte es dank des stark erhöhten Hauptspeicheraufwands, der durch das Parsen der XML-Dokumente entsteht, denial of service (DoS)-Angriffe auf die betroffenen Systeme auszuführen. Die Sicherheitslücke lässt sich ohne viele Kenntnisse ausnutzen und bietet abgesehen von der Auswirkung auf die Performance des Systems keine Möglichkeit Daten oder das System zu kompromittieren.</description>
+    </item>
+    
+    <item>
+      <title>CVE-2017-8422</title>
+      <link>https://websecseminar.github.io/posts/cve-2017-8422/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/cve-2017-8422/</guid>
+      <description>CVE-2017-8422  Einführung: Die „K Desktop Environment“ (KDE) ist eine grafische Desktopumgebung für das X Window System. Die KDElibs-Pakete enthalten Kernellibrarys für die K Desktop Environment. In der Art und Weise, wie die KDElibs D-Bus-Nachrichten verarbeitet werden, wurde ein Fehler bei der Rechteausweitung gefunden. Ein lokaler Benutzer könnte diesen Fehler möglicherweise nutzen, um Root-Rechte zu erlangen, indem er eine Caller-ID fälscht und eine privilegierte Hilfsanwendung nutzt. (CVE-2017-8422).
+Wir werden in diesem Blog das Gesamtproblem beschreiben, indem wir den smb4k-Code durchgehen und erklären, welche DBUS-Funktionen aufgerufen werden und wie sich ein bestimmter smb4k-Bug auf das Gesamtbild des KAuth-Fehlers abbildet.</description>
+    </item>
+    
+    <item>
+      <title>CVE-2005-2395</title>
+      <link>https://websecseminar.github.io/posts/cve_post/</link>
+      <pubDate>Sun, 14 Nov 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/cve_post/</guid>
+      <description>Allgemeine Beschreibung Die CVE-2005-2395 handelt von einer Schwachstelle aus dem Jahre 2005 bei der im Browser Mozilla Firefox, ein Fehler in der User Authentifikation gefunden wurde.
+Die CVE gehört zur CWE-312, welche davon handelt, dass sensitive Informationen unverschlüsselt gespeichert und verschickt werden. Daten unverschlüsselt zu
+speichern oder zu verschicken bietet Angreifern die Möglichkeit einfach an sensitive Informationen und sich Zugriff zu privaten Konten oder Servern zu verschaffen.
+Die CVE-2005-2395 hat eine CVSS-Bewertung von 5.</description>
+    </item>
+    
+    <item>
+      <title>CVE-2018-14728 – SSRF</title>
+      <link>https://websecseminar.github.io/posts/cve-2018-14728_team_cooler_name/</link>
+      <pubDate>Sat, 13 Nov 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/cve-2018-14728_team_cooler_name/</guid>
+      <description>Einführung Der CVE-2018-14728, beschreibt eine SSRF Sicherheitslücke in einer Upload-Funktion im Open-Source-Projekt Responsive FileManager. Über diese war es möglich, auf interne Daten wie zum Beispiel Passwörter zuzugreifen, auf die ein Benutzer keinen Zugriff haben sollte.
+Der Responsive FileManager ist ein Datei-Verwaltungssystem, welches sowohl alleinstehend als auch als Plug-in verwendet werden kann. Hierbei bietet das Programm eine Vielzahl an hilfreichen Funktionen wie beispielsweise automatische Vorschaubilderstellung und Kompatibilität für Multi-Nutzer.
+Sicherheitslücke Im Responsive FileManager ist es möglich, eine Datei von der eigenen Festplatte hochzuladen oder diese über eine URL auf den FileManager herunterzuladen.</description>
+    </item>
+    
     <item>
       <title>OWASP10 – Server-Side Request Forgery</title>
       <link>https://websecseminar.github.io/posts/owasp_10_team_cooler_name/</link>
@@ -37,6 +79,16 @@ All types of injection are caused by unfiltered or insufficiently validated data
     </item>
     
     <item>
+      <title>SQL injection - CVE 2019-9083</title>
+      <link>https://websecseminar.github.io/posts/owasp_3_cve_2019-9083/</link>
+      <pubDate>Tue, 19 Oct 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/owasp_3_cve_2019-9083/</guid>
+      <description>Description Injections, and furthermore SQL injections, are still one of the most popular and most attractive vulnerability classes for hackers.
+CVE 2019-9083 is an example of CWE-89 (Improper Neutralization of Special Elements used in an SQL Command) and affects SQLiteManager (version 1.2.0 and 1.2.4). SQLiteManager is a piece of open-source software, which can be used to manage SQLite databases right out of the webbrowser. As it is completely written on PHP, it runs using an apache server and is powered by an underlying MySQL instance.</description>
+    </item>
+    
+    <item>
       <title>OWASP07 - Authentication</title>
       <link>https://websecseminar.github.io/posts/owasp07_i_fehler_bei_der_identifizierung_und_authentifizierung/</link>
       <pubDate>Tue, 05 Oct 2021 00:29:41 -0600</pubDate>
@@ -53,6 +105,15 @@ All types of injection are caused by unfiltered or insufficiently validated data
       <guid>https://websecseminar.github.io/posts/owasp_4_team_diedieihretabellekaputtgemachthaben/</guid>
       <description>Einführung Planung ist oft das Schlüsselelement zu allem was wir tun. So auch in der Software-Entwicklung. Insecure Design ist eine Sicherheitsschwachstelle, die durch schlechte oder nicht weitsichtige Planung entsteht. Grade in den immer größer werdenden Projekten spielt gute Planung und damit auch Secure Design eine wichtige und nicht zu unterschätzenden Rolle.
 Was ist Insecure Design Unsichers Design oder Insecure Design entsteht meistens, wenn bei der Planung der Software kaum bis gar kein Schwerpunkt auf die Sicherheit gelegt wird.</description>
+    </item>
+    
+    <item>
+      <title>OWASP A06 - CVEs</title>
+      <link>https://websecseminar.github.io/posts/owasp_6_cve/</link>
+      <pubDate>Thu, 30 Sep 2021 00:29:41 -1015</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/owasp_6_cve/</guid>
+      <description>Einleitung - Jede Sicherheitslücke gehört zu OWASP A06! Die allgemein gehaltene Formulierung der OWASP-Kategorie A06 aus 2021 hat zur Folge, dass viele Sicherheitslücken, zu ihr zählen. OWASP A06 beschreibt Sicherheitslücken, die in Abhängigkeiten/Dependencies von Softwareprodukten enthalten sind. Es gibt sowohl viele Softwareprodukte als auch auf Entwicklungsebene viele Abhängigkeiten, bei denen Updates ausgelassen werden. Also ist die genaue Art der Sicherheitslücke, wie sie ein System verwundbar macht und welchen Einfluss sie auf das System hat, nicht festgelegt.</description>
     </item>
     
     <item>

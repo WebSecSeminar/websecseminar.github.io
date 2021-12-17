@@ -3,16 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://websecseminar.github.io/posts/</loc>
-    <lastmod>2021-11-05T20:14:22+01:00</lastmod>
+    <lastmod>2021-12-16T23:34:31+01:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://websecseminar.github.io/tags/alexb/</loc>
-    <lastmod>2021-11-05T20:11:54+01:00</lastmod>
+    <loc>https://websecseminar.github.io/posts/team_sadlittleunicorn_cve-2015-1819/</loc>
+    <lastmod>2021-12-16T13:16:00+01:00</lastmod>
   </url><url>
-    <loc>https://websecseminar.github.io/tags/forgery/</loc>
-    <lastmod>2021-11-05T20:11:54+01:00</lastmod>
+    <loc>https://websecseminar.github.io/tags/cve-2017-8422/</loc>
+    <lastmod>2021-12-16T19:34:17+01:00</lastmod>
+  </url><url>
+    <loc>https://websecseminar.github.io/posts/cve-2017-8422/</loc>
+    <lastmod>2021-12-16T19:34:17+01:00</lastmod>
+  </url><url>
+    <loc>https://websecseminar.github.io/tags/cwe-776/</loc>
+    <lastmod>2021-12-16T13:16:00+01:00</lastmod>
+  </url><url>
+    <loc>https://websecseminar.github.io/tags/hackermen/</loc>
+    <lastmod>2021-12-16T19:34:17+01:00</lastmod>
+  </url><url>
+    <loc>https://websecseminar.github.io/tags/owasp05/</loc>
+    <lastmod>2021-12-16T13:16:00+01:00</lastmod>
+  </url><url>
+    <loc>https://websecseminar.github.io/tags/owasp07/</loc>
+    <lastmod>2021-12-16T19:34:17+01:00</lastmod>
+  </url><url>
+    <loc>https://websecseminar.github.io/tags/</loc>
+    <lastmod>2021-12-16T23:34:31+01:00</lastmod>
+  </url><url>
+    <loc>https://websecseminar.github.io/tags/xee/</loc>
+    <lastmod>2021-12-16T13:16:00+01:00</lastmod>
+  </url><url>
+    <loc>https://websecseminar.github.io/tags/authentification/</loc>
+    <lastmod>2021-12-06T16:36:44+01:00</lastmod>
+  </url><url>
+    <loc>https://websecseminar.github.io/tags/cve/</loc>
+    <lastmod>2021-12-09T16:27:33+01:00</lastmod>
+  </url><url>
+    <loc>https://websecseminar.github.io/posts/cve_post/</loc>
+    <lastmod>2021-12-06T16:36:44+01:00</lastmod>
+  </url><url>
+    <loc>https://websecseminar.github.io/tags/firefox/</loc>
+    <lastmod>2021-12-06T16:36:44+01:00</lastmod>
+  </url><url>
+    <loc>https://websecseminar.github.io/tags/schwachstellen/</loc>
+    <lastmod>2021-12-06T16:36:44+01:00</lastmod>
+  </url><url>
+    <loc>https://websecseminar.github.io/tags/alexb/</loc>
+    <lastmod>2021-12-09T16:27:33+01:00</lastmod>
+  </url><url>
+    <loc>https://websecseminar.github.io/posts/cve-2018-14728_team_cooler_name/</loc>
+    <lastmod>2021-12-09T16:27:33+01:00</lastmod>
   </url><url>
     <loc>https://websecseminar.github.io/tags/laurins/</loc>
+    <lastmod>2021-12-09T16:27:33+01:00</lastmod>
+  </url><url>
+    <loc>https://websecseminar.github.io/tags/ssrf/</loc>
+    <lastmod>2021-12-09T16:27:33+01:00</lastmod>
+  </url><url>
+    <loc>https://websecseminar.github.io/tags/forgery/</loc>
     <lastmod>2021-11-05T20:11:54+01:00</lastmod>
   </url><url>
     <loc>https://websecseminar.github.io/tags/owasp10/</loc>
@@ -21,17 +69,8 @@
     <loc>https://websecseminar.github.io/posts/owasp_10_team_cooler_name/</loc>
     <lastmod>2021-11-05T20:11:54+01:00</lastmod>
   </url><url>
-    <loc>https://websecseminar.github.io/tags/ssrf/</loc>
-    <lastmod>2021-11-05T20:11:54+01:00</lastmod>
-  </url><url>
-    <loc>https://websecseminar.github.io/tags/</loc>
-    <lastmod>2021-11-05T20:14:22+01:00</lastmod>
-  </url><url>
     <loc>https://websecseminar.github.io/tags/owasp/</loc>
-    <lastmod>2021-11-05T20:08:39+01:00</lastmod>
-  </url><url>
-    <loc>https://websecseminar.github.io/tags/owasp05/</loc>
-    <lastmod>2021-11-04T15:53:55+01:00</lastmod>
+    <lastmod>2021-12-16T23:34:31+01:00</lastmod>
   </url><url>
     <loc>https://websecseminar.github.io/posts/owasp_5_team_sadlittleunicorn/</loc>
     <lastmod>2021-11-04T15:53:55+01:00</lastmod>
@@ -39,11 +78,17 @@
     <loc>https://websecseminar.github.io/tags/security-misconfiguration/</loc>
     <lastmod>2021-11-04T15:53:55+01:00</lastmod>
   </url><url>
+    <loc>https://websecseminar.github.io/tags/cve-2019-9083/</loc>
+    <lastmod>2021-11-25T15:47:48+01:00</lastmod>
+  </url><url>
+    <loc>https://websecseminar.github.io/tags/cwe-89/</loc>
+    <lastmod>2021-11-25T15:47:48+01:00</lastmod>
+  </url><url>
     <loc>https://websecseminar.github.io/tags/inejction-prevention/</loc>
     <lastmod>2021-11-05T20:14:22+01:00</lastmod>
   </url><url>
     <loc>https://websecseminar.github.io/tags/injection/</loc>
-    <lastmod>2021-11-05T20:14:22+01:00</lastmod>
+    <lastmod>2021-11-25T15:47:48+01:00</lastmod>
   </url><url>
     <loc>https://websecseminar.github.io/tags/local-file-inclusion/</loc>
     <lastmod>2021-11-05T20:14:22+01:00</lastmod>
@@ -52,21 +97,24 @@
     <lastmod>2021-11-05T20:14:22+01:00</lastmod>
   </url><url>
     <loc>https://websecseminar.github.io/tags/sql/</loc>
-    <lastmod>2021-11-05T20:14:22+01:00</lastmod>
+    <lastmod>2021-11-25T15:47:48+01:00</lastmod>
   </url><url>
     <loc>https://websecseminar.github.io/tags/sql-injection/</loc>
-    <lastmod>2021-11-05T20:14:22+01:00</lastmod>
+    <lastmod>2021-11-25T15:47:48+01:00</lastmod>
+  </url><url>
+    <loc>https://websecseminar.github.io/posts/owasp_3_cve_2019-9083/</loc>
+    <lastmod>2021-11-25T15:47:48+01:00</lastmod>
   </url><url>
     <loc>https://websecseminar.github.io/tags/sql-injection-prevention/</loc>
-    <lastmod>2021-11-05T20:14:22+01:00</lastmod>
+    <lastmod>2021-11-25T15:47:48+01:00</lastmod>
   </url><url>
     <loc>https://websecseminar.github.io/tags/sqli/</loc>
-    <lastmod>2021-11-05T20:14:22+01:00</lastmod>
+    <lastmod>2021-11-25T15:47:48+01:00</lastmod>
+  </url><url>
+    <loc>https://websecseminar.github.io/tags/sqlitemanager/</loc>
+    <lastmod>2021-11-25T15:47:48+01:00</lastmod>
   </url><url>
     <loc>https://websecseminar.github.io/tags/identification-and-authentification-failures/</loc>
-    <lastmod>2021-11-05T20:08:39+01:00</lastmod>
-  </url><url>
-    <loc>https://websecseminar.github.io/tags/owasp07/</loc>
     <lastmod>2021-11-05T20:08:39+01:00</lastmod>
   </url><url>
     <loc>https://websecseminar.github.io/posts/owasp07_i_fehler_bei_der_identifizierung_und_authentifizierung/</loc>
@@ -85,24 +133,27 @@
     <lastmod>2021-11-05T20:08:39+01:00</lastmod>
   </url><url>
     <loc>https://websecseminar.github.io/tags/a06/</loc>
-    <lastmod>2021-11-05T20:08:39+01:00</lastmod>
+    <lastmod>2021-12-16T23:34:31+01:00</lastmod>
   </url><url>
     <loc>https://websecseminar.github.io/tags/components/</loc>
-    <lastmod>2021-11-05T20:08:39+01:00</lastmod>
+    <lastmod>2021-12-16T23:34:31+01:00</lastmod>
   </url><url>
     <loc>https://websecseminar.github.io/tags/outdated/</loc>
-    <lastmod>2021-11-05T20:08:39+01:00</lastmod>
+    <lastmod>2021-12-16T23:34:31+01:00</lastmod>
+  </url><url>
+    <loc>https://websecseminar.github.io/posts/owasp_6_cve/</loc>
+    <lastmod>2021-12-16T23:34:31+01:00</lastmod>
   </url><url>
     <loc>https://websecseminar.github.io/posts/owasp_6_die_drei/</loc>
     <lastmod>2021-11-05T20:08:39+01:00</lastmod>
   </url><url>
     <loc>https://websecseminar.github.io/tags/security/</loc>
-    <lastmod>2021-11-05T20:08:39+01:00</lastmod>
+    <lastmod>2021-12-16T23:34:31+01:00</lastmod>
   </url><url>
     <loc>https://websecseminar.github.io/tags/vulnerable/</loc>
-    <lastmod>2021-11-05T20:08:39+01:00</lastmod>
+    <lastmod>2021-12-16T23:34:31+01:00</lastmod>
   </url><url>
     <loc>https://websecseminar.github.io/</loc>
-    <lastmod>2021-11-27T14:13:36+01:00</lastmod>
+    <lastmod>2021-12-16T19:04:30+01:00</lastmod>
   </url>
 </urlset>

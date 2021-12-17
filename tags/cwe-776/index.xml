@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CWE-776 on WebSec Seminar Blog</title>
+    <link>https://websecseminar.github.io/tags/cwe-776/</link>
+    <description>Recent content in CWE-776 on WebSec Seminar Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://websecseminar.github.io/tags/cwe-776/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE-2015-1819</title>
+      <link>https://websecseminar.github.io/posts/team_sadlittleunicorn_cve-2015-1819/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/team_sadlittleunicorn_cve-2015-1819/</guid>
+      <description>Einführung CVE-2015-1819 beschreibt eine Sicherheitslücke, die in vielen XML-Parsern vorhanden war und durch die fehlende Absicherung gegen rekursiv definierte XML-Dokumente definiert wurde. Diese Lücke ermöglichte es dank des stark erhöhten Hauptspeicheraufwands, der durch das Parsen der XML-Dokumente entsteht, denial of service (DoS)-Angriffe auf die betroffenen Systeme auszuführen. Die Sicherheitslücke lässt sich ohne viele Kenntnisse ausnutzen und bietet abgesehen von der Auswirkung auf die Performance des Systems keine Möglichkeit Daten oder das System zu kompromittieren.</description>
+    </item>
+    
+  </channel>
+</rss>

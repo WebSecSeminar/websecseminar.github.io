@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cve on WebSec Seminar Blog</title>
+    <link>https://websecseminar.github.io/tags/cve/</link>
+    <description>Recent content in cve on WebSec Seminar Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Nov 2021 00:29:41 -0600</lastBuildDate><atom:link href="https://websecseminar.github.io/tags/cve/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE-2005-2395</title>
+      <link>https://websecseminar.github.io/posts/cve_post/</link>
+      <pubDate>Sun, 14 Nov 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/cve_post/</guid>
+      <description>Allgemeine Beschreibung Die CVE-2005-2395 handelt von einer Schwachstelle aus dem Jahre 2005 bei der im Browser Mozilla Firefox, ein Fehler in der User Authentifikation gefunden wurde.
+Die CVE gehört zur CWE-312, welche davon handelt, dass sensitive Informationen unverschlüsselt gespeichert und verschickt werden. Daten unverschlüsselt zu
+speichern oder zu verschicken bietet Angreifern die Möglichkeit einfach an sensitive Informationen und sich Zugriff zu privaten Konten oder Servern zu verschaffen.
+Die CVE-2005-2395 hat eine CVSS-Bewertung von 5.</description>
+    </item>
+    
+    <item>
+      <title>CVE-2018-14728 – SSRF</title>
+      <link>https://websecseminar.github.io/posts/cve-2018-14728_team_cooler_name/</link>
+      <pubDate>Sat, 13 Nov 2021 00:29:41 -0600</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/cve-2018-14728_team_cooler_name/</guid>
+      <description>Einführung Der CVE-2018-14728, beschreibt eine SSRF Sicherheitslücke in einer Upload-Funktion im Open-Source-Projekt Responsive FileManager. Über diese war es möglich, auf interne Daten wie zum Beispiel Passwörter zuzugreifen, auf die ein Benutzer keinen Zugriff haben sollte.
+Der Responsive FileManager ist ein Datei-Verwaltungssystem, welches sowohl alleinstehend als auch als Plug-in verwendet werden kann. Hierbei bietet das Programm eine Vielzahl an hilfreichen Funktionen wie beispielsweise automatische Vorschaubilderstellung und Kompatibilität für Multi-Nutzer.
+Sicherheitslücke Im Responsive FileManager ist es möglich, eine Datei von der eigenen Festplatte hochzuladen oder diese über eine URL auf den FileManager herunterzuladen.</description>
+    </item>
+    
+  </channel>
+</rss>

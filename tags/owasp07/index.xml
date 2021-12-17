@@ -6,7 +6,17 @@
     <description>Recent content in OWASP07 on WebSec Seminar Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Oct 2021 00:29:41 -0600</lastBuildDate><atom:link href="https://websecseminar.github.io/tags/owasp07/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://websecseminar.github.io/tags/owasp07/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE-2017-8422</title>
+      <link>https://websecseminar.github.io/posts/cve-2017-8422/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://websecseminar.github.io/posts/cve-2017-8422/</guid>
+      <description>CVE-2017-8422  Einführung: Die „K Desktop Environment“ (KDE) ist eine grafische Desktopumgebung für das X Window System. Die KDElibs-Pakete enthalten Kernellibrarys für die K Desktop Environment. In der Art und Weise, wie die KDElibs D-Bus-Nachrichten verarbeitet werden, wurde ein Fehler bei der Rechteausweitung gefunden. Ein lokaler Benutzer könnte diesen Fehler möglicherweise nutzen, um Root-Rechte zu erlangen, indem er eine Caller-ID fälscht und eine privilegierte Hilfsanwendung nutzt. (CVE-2017-8422).
+Wir werden in diesem Blog das Gesamtproblem beschreiben, indem wir den smb4k-Code durchgehen und erklären, welche DBUS-Funktionen aufgerufen werden und wie sich ein bestimmter smb4k-Bug auf das Gesamtbild des KAuth-Fehlers abbildet.</description>
+    </item>
+    
     <item>
       <title>OWASP07 - Authentication</title>
       <link>https://websecseminar.github.io/posts/owasp07_i_fehler_bei_der_identifizierung_und_authentifizierung/</link>
